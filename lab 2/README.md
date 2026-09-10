@@ -9,14 +9,10 @@ ARTI 403 - Image Sampling, Quantization, Arithmetic and Set Operations.
 - Adding a constant value to an image
 - Set operations on two images (union, intersection, difference, symmetric difference)
 
-## Files
-
-- `code/lab2_solution.ipynb` - the notebook with all the code
-- `images/` - the images used in the notebook
 
 ## How to run
 
-Open `lab2_solution.ipynb` and run all cells. Needs opencv-python, numpy, matplotlib, pillow, scikit-image.
+Open lab2.ipynb and run all cells. Needs opencv-python, numpy, matplotlib, pillow, scikit-image.
 
 If the images folder is empty, the first cell will generate sample images automatically so the notebook still runs.
 
