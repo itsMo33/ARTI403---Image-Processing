@@ -17,16 +17,11 @@ Apply morphological image processing techniques (erosion, dilation, opening and 
 | `Lab9_Morphological_Operations.ipynb` | Jupyter Notebook with the code and outputs |
 | `Lab9_Morphological_Operations.pdf` | PDF version of the notebook (code + output) |
 | `Balls.png` | Input image used in the lab |
-| `requirements.txt` | Required Python libraries |
 | `README.md` | This file |
 
 ## How to Run
 1. Keep `Balls.png` in the same folder as the notebook.
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the notebook and run all cells:
+2. Open the notebook and run all cells:
    ```bash
    jupyter notebook Lab9_Morphological_Operations.ipynb
    ```
